@@ -1,15 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
+This README123 would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+Things you may want to cover123:
 
-* Ruby version
+* Ruby version123
 
 * System dependencies
 
-* Configuration
+* Configuration123
 
 * Database creation
 
