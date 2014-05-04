@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover123:
 
-* Ruby version1352355
+* Ruby version135235500
 
 * System dependencies
 
